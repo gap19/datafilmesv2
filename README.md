@@ -43,24 +43,29 @@ Usuários cadastrados na primeira semana; percentual de ativação (registraram 
 
 | Entregável | Ferramenta | Arquivo no repositório |
 |---|---|---|
-| Lean Inception + MVP Canvas | Miro | [canvas-url.txt](canvas-url.txt) |
+| Lean Inception + MVP Canvas | Miro | [canvas-url.txt](canvas-url.txt) (link do board) e [leaninception.pdf](leaninception.pdf) (export) |
 | Backlog do Produto + DoR e DoD | Jira → PDF | [product-backlog.pdf](product-backlog.pdf) |
 | Backlog da Sprint 1 | Jira → PDF | [sprint-backlog.pdf](sprint-backlog.pdf) |
 | Wireframes de baixa fidelidade | Figma → PNG | [wireframes/](wireframes/) |
-| Vídeo de apresentação (2 a 4 min) | Gravação | `video-url.txt` |
+| Vídeo de apresentação (2 a 4 min) | Gravação | [showcase.mp4](showcase.mp4) e [video-url.txt](video-url.txt) |
+
+O vídeo de apresentação está disponível em dois formatos: pelo link do YouTube contido em [video-url.txt](video-url.txt) e como arquivo local na raiz do repositório em [showcase.mp4](showcase.mp4).
 
 ## Estrutura do repositório
 
 ```
-datafilmes-2.0/
+datafilmesv2/
   README.md                  (descrição do projeto e índice da entrega)
-  canvas-url.txt             (URL pública do board do Miro)
-  product-backlog.pdf        (gerado a partir do Jira)
-  sprint-backlog.pdf         (gerado a partir do Jira)
-  video-showcase.mp4         (ou um arquivo video-url.txt com o link)
+  canvas-url.txt              (URL pública do board do Miro)
+  leaninception.pdf           (export do board: Lean Inception + MVP Canvas)
+  product-backlog.pdf         (gerado a partir do Jira)
+  sprint-backlog.pdf          (gerado a partir do Jira)
+  showcase.mp4                (vídeo de apresentação)
+  video-url.txt                (link do vídeo no YouTube)
   wireframes/
     01-cadastro-login.png
     02-busca.png
     03-detalhe-avaliar.png
     04-diario.png
+    04b-diario-estado-vazio.png (estado de lista vazia do diário)
 ```
