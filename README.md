@@ -4,7 +4,7 @@ Plataforma social de catalogação de filmes e séries no estilo Letterboxd. As 
 
 ## Sobre o produto
 
-**Modelo de negócio (MVP):** freemium: gratuito para o usuário final, com monetização futura via assinatura premium (estatísticas avançadas, sem anúncios) e parcerias com serviços de streaming.
+**Modelo de negócio (MVP)** freemium: gratuito para o usuário final, com monetização futura via assinatura premium (estatísticas avançadas, sem anúncios) e parcerias com serviços de streaming.
 
 **Proposta do MVP:** permitir que uma pessoa catalogue, avalie e compartilhe com amigos os filmes e séries que assistiu, validando se há demanda por uma rede social de catalogação.
 
@@ -33,7 +33,7 @@ Incrementos futuros: watchlist e listas personalizadas (Onda 2); curtir/comentar
 
 ### Time Scrum
 
-Equipe enxuta de seis pessoas: Product Owner, Scrum Master (acumula desenvolvimento), Designer UX/UI, dois Desenvolvedores full stack (front end React / back end Node) e QA (meio período).
+Equipe enxuta de seis pessoas: Product Owner, Scrum Master, Designer UX/UI, dois Desenvolvedores full stack (front end React / back end Node) e QA (meio período).
 
 ### Métricas de validação
 
